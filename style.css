@@ -86,7 +86,7 @@ h3 {
 }
 
 .fondo {
-    background-image: url(../img1.png);
+    background-image: url(https://i.pinimg.com/736x/79/f5/94/79f59402e60f316e408a6604e3bdef34.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 45rem;
@@ -99,7 +99,6 @@ h3 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    ima
 }
 
 
